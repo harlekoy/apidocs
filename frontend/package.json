@@ -21,7 +21,7 @@
     "@ky-is/vue-cli-plugin-tailwind": "^1.5.0",
     "@vue/cli-plugin-babel": "^3.0.1",
     "@vue/cli-service": "^3.0.1",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "postcss-preset-env": "^6.3.0",
     "sass-loader": "^7.0.1",
     "tailwindcss": "^0.7.0",
